@@ -1,0 +1,24 @@
+{
+  "name": "ts-play2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-niranjan/ts-playground2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/i-niranjan/ts-playground2/issues"
+  },
+  "homepage": "https://github.com/i-niranjan/ts-playground2#readme",
+  "dependencies": {
+    "@types/node": "^22.15.17"
+  }
+}
